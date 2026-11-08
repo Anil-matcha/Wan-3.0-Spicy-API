@@ -13,6 +13,7 @@ The most comprehensive Python wrapper for the **Wan 3.0 Spicy API** (developed b
 
 ## Related Projects
 
+- [Spicy AI Video Generator API](https://github.com/Anil-matcha/Spicy-AI-Video-Generator-API) — compare spicy video endpoints across Seedance 2.5/2, Wan 3.0 and MiniMax H3 in one guide.
 - [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) — Python SDK and MCP server for the standard-moderation Wan 3.0 API.
 - [Wan-3.0-Prime-API](https://github.com/Anil-matcha/Wan-3.0-Prime-API) — Python SDK and MCP server for the higher-fidelity Wan 3.0 Prime tier.
 - [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui) — Run Wan 3.0 inside ComfyUI.
