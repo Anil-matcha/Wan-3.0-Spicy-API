@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 
-The most comprehensive Python wrapper for the **Wan 3.0 Spicy API** (developed by Alibaba), delivered via [muapi.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=wan-3.0-spicy-api). Wan 3.0 Spicy is the relaxed-moderation tier of [Wan 3.0](https://github.com/Anil-matcha/Wan-3.0-API) — the same bold, high-contrast, high-motion video generation with synchronized audio, but with **reduced content-safety filtering** for broader creative freedom.
+An uncensored (relaxed-moderation) Wan 3.0 API wrapper. The most comprehensive Python wrapper for the **Wan 3.0 Spicy API** (developed by Alibaba), delivered via [muapi.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=wan-3.0-spicy-api). Wan 3.0 Spicy is the relaxed-moderation tier of [Wan 3.0](https://github.com/Anil-matcha/Wan-3.0-API) — the same bold, high-contrast, high-motion video generation with synchronized audio, but with **reduced content-safety filtering** for broader creative freedom.
 
 > ⚠️ **Content policy notice**: "Spicy" means reduced automated content-safety filtering, not an anything-goes endpoint. Generated content still must comply with MuAPI's and the underlying provider's terms of service and applicable law. Do not use this API to generate content involving minors, non-consensual imagery, or other prohibited material.
 
