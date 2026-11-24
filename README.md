@@ -21,6 +21,7 @@ An uncensored (relaxed-moderation) Wan 3.0 API wrapper. The most comprehensive P
 - [Seedance-2.5-Spicy-API](https://github.com/Anil-matcha/Seedance-2.5-Spicy-API) — Python SDK and MCP server for the Seedance 2.5 Spicy tier.
 - [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) — Python wrapper for the standard-moderation Seedance 2.0/2.5/2 Mini API.
 - [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) — Curated list of AI video generation models and APIs.
+- [NSFW-AI-API](https://github.com/Anil-matcha/NSFW-AI-API) — NSFW detection and moderation for text and images, to screen prompts and outputs
 
 ## 🚀 Why Use Wan 3.0 Spicy API?
 
